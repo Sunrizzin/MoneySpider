@@ -1,0 +1,8 @@
+"amount_placeholder" = "Amount";
+"date_placeholder" = "Date";
+"category_placeholder" = "Category";
+"currency" = "$";
+"title" = "Expenses";
+"clear_expenses" = "Clear Expenses";
+"clear_message" = "Are you sure you want to clear the list of expenses and category statistics?";
+"clear_title" = "Clear";
